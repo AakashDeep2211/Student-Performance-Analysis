@@ -38,10 +38,7 @@ This project analyzes student performance data by exploring various factors such
     - Mode: **20** hours/week (most common)  
 - **Test_Score:**  
     - Mean: **75.41**  
-    - Mode: **80**  
-- **Distance_from_Home:**  
-    - Mean: **8.52** km  
-    - Mode: **5** km  
+    - Mode: **80**    
 
 ### 3️⃣ **Teacher Quality Analysis**
 - **Teacher_Quality** column contains **null values**.  
